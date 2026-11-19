@@ -39,6 +39,13 @@ Ejercicios resueltos de Java, Prolog y Haskell de la materia Paradigmas de Progr
 * Familias de lenguajes y evolución histórica. 
 
 ## Unidad 2 - Paradigma Imperativo
+
+<img width="700" alt="Paradigmas de Programación - Tipo de Paradigma Imperativo y Declarativo" src="https://github.com/user-attachments/assets/d5bd19dc-7cfa-491c-8d04-8a9bb571d8f8" />
+
+<img width="700" alt="Testing de Software" src="https://github.com/user-attachments/assets/5f21b687-2e20-4026-8c84-a525c289613b" />
+
+<img width="700" alt="Pruebas Unitarias" src="https://github.com/user-attachments/assets/fad93ede-a12a-4d1a-8175-a977dcaf0448" />
+
 * Estilos de programación en la programación Imperativa:
   * Estructurada por procedimientos.
   * Modular.
